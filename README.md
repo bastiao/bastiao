@@ -41,11 +41,11 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- Top Language Dashboard -->
-<a href="https://github.com/lamw">
+<a href="https://github.com/bastiao">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiao&theme=merko" />
 </a>
 
 <!-- Stats Dashboard -->
-<a href="https://github.com/lamw">
+<a href="https://github.com/bastiao">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bastiao&show_icons=true&theme=merko&line_height=27" alt="Bastiao's github stats" />
 </a>
