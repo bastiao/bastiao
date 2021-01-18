@@ -83,3 +83,4 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 </a>
 
 
+
