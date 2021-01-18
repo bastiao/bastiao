@@ -77,3 +77,9 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 <a href="https://github.com/BMDSoftware/dicoogle-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-python&theme=radical" />
 </a>
+
+<a href="https://github.com/BMDSoftware/rmjvm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=rmjvm&theme=radical" />
+</a>
+
+
