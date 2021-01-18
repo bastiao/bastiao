@@ -19,12 +19,12 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/bastiao">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiao&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiao&theme=vue" />
 </a>
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/bastiao">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastiao&show_icons=true&theme=merko&line_height=27" alt="Bastiao's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastiao&show_icons=true&theme=vue&line_height=27" alt="Bastiao's github stats" />
 </a>
 
 
@@ -34,29 +34,29 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/bastiao/contributions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bastiao&repo=contributions&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bastiao&repo=contributions&theme=vue" />
 </a>
 
 <a href="https://github.com/bioinformatics-ua/dicoogle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioinformatics-ua&repo=dicoogle&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioinformatics-ua&repo=dicoogle&theme=vue" />
 </a>
 
 
 <a href="https://github.com/BMDSoftware/dicoogle-ipfs-storage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-ipfs-storage&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-ipfs-storage&theme=vue" />
 </a>
 
 
 <a href="https://github.com/BMDSoftware/dicoogle-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-java&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-java&theme=vue" />
 </a>
 
 <a href="https://github.com/BMDSoftware/dicoogle-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-python&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-python&theme=vue" />
 </a>
 
 <a href="https://github.com/BMDSoftware/rmjvm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=rmjvm&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=rmjvm&theme=vue" />
 </a>
 
 
