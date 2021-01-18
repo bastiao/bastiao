@@ -49,3 +49,31 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 <a href="https://github.com/bastiao">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bastiao&show_icons=true&theme=merko&line_height=27" alt="Bastiao's github stats" />
 </a>
+
+
+
+
+## Popular Repositories
+<!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/bastiao/contributions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bastiao&repo=contributions&theme=radical" />
+</a>
+
+<a href="https://github.com/bioinformatics-ua/dicoogle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioinformatics-ua&repo=dicoogle&theme=radical" />
+</a>
+
+
+<a href="https://github.com/BMDSoftware/dicoogle-ipfs-storage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware-ua&repo=dicoogle-ipfs-storage&theme=radical" />
+</a>
+
+
+<a href="https://github.com/BMDSoftware/dicoogle-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware-ua&repo=dicoogle-java&theme=radical" />
+</a>
+
+<a href="https://github.com/BMDSoftware/dicoogle-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware-ua&repo=dicoogle-python&theme=radical" />
+</a>
