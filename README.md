@@ -10,7 +10,7 @@ My main interesting, research and innovations topics are: medical imaging, dicom
 
 * 📧 - [Email](mailto:luis.kop@gmail.com)
 
-* 🐦 - [Twitter](https://twitter.com/bastiao)
+* 🐦 - [Twitter](https://twitter.com/luisbastiao)
 
 * 🔗 - [LinkedIn](https://www.linkedin.com/in/bastiao/)
 
