@@ -18,9 +18,10 @@
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- Top Language Dashboard -->
+<!--
 <a href="https://github.com/bastiao">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastiao&theme=vue" />
-</a>
+</a>-->
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/bastiao">
