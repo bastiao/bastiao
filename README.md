@@ -47,18 +47,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-ipfs-storage&theme=vue" />
 </a>
 
-
-<a href="https://github.com/BMDSoftware/dicoogle-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-java&theme=vue" />
-</a>
-
 <a href="https://github.com/BMDSoftware/dicoogle-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=dicoogle-python&theme=vue" />
 </a>
 
-<a href="https://github.com/BMDSoftware/rmjvm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BMDSoftware&repo=rmjvm&theme=vue" />
-</a>
 
 
 
